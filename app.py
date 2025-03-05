@@ -5,9 +5,8 @@ def myname(a) :
 myname('SUCHIT')
 myname('KABIR')
 
-def name(b) :
-    while True == True :
-        print(b)
-        return b 
-    
-name('SUCHIT')
+def sum(c,d) :
+    return c+d
+
+def sub(a,b):
+    return a-b
